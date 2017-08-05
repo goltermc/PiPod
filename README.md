@@ -1,6 +1,6 @@
 # PiPod
 Code to make a Raspberry Pi appear as an iPod to my car radio
-This project started out as an application for the Beaglebone Black clled beaglepod.
+This project started out as an application for the Beaglebone Black called beaglepod.
 I found it while poking around on the web.
 
 Sometime ago I obtained a vehicle with a "radio" which would talk to an iPod.
@@ -11,7 +11,7 @@ Since these things tend to disappear over time, a copy of that page is stored he
 Along the way , I found numereous anrdoid apps which would make an android device "look" like an ipod.
 None of these had any reasonable documentation. I was frustruated.
 Then I stumbled on beaglepod. It is written entirely in c/c++, which I've used for many years.
-I tried to get this to compie on the beaglebone black but kept running into library issues.
+I tried to get this to compile on the beaglebone black but kept running into library issues.
 Finally, I moved the source to a spare raspberry pi and was able to get it to compile completely.
 
 I've spent a good deal of effort, getting things set up.
@@ -40,6 +40,6 @@ Aside from a little formatting and cleanup, I've made few changes. I also made a
 
 Eventually, I'll create instructions for building on the raspberry pi, including all the libraries which must be loaded to make this work.
 
-Use this as you like I make no warantees whatsoever.
+Use this as you like I make no warantees whatsoever. If something breaks that's on you.
 
 
