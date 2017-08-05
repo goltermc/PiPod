@@ -1,5 +1,6 @@
 # PiPod
 Code to make a Raspberry Pi appear as an iPod to my car radio
+This is VERY much a work in progress. At this writing most everythins has not be added to the repository.
 This project started out as an application for the Beaglebone Black called beaglepod.
 I found it while poking around on the web.
 
